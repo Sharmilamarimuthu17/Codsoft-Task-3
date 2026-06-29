@@ -4,14 +4,9 @@
 
 This project is a simple console-based **ATM Interface** developed in Java as part of the **CodSoft Java Programming Internship**. The application simulates basic ATM operations such as checking account balance, depositing money, and withdrawing money.
 
-## ✨ Features
 
-* Check Account Balance
-* Deposit Money
-* Withdraw Money
-* Validate User Input
-* Display Appropriate Messages
-* Exit the Application
+##  code
+https://onecompiler.com/java/44sygdkwb
 
 ## 🛠️ Technologies Used
 
@@ -24,9 +19,6 @@ This project is a simple console-based **ATM Interface** developed in Java as pa
 * **Bank Class** - Manages account balance, deposits, and withdrawals.
 * **AutomatedTellerMachine Class** - Provides the ATM menu and user interaction.
 * **Main Class** - Executes the ATM application.
-
-##  code
-https://onecompiler.com/java/44sygdkwb
 
 ## ▶️ How to Run
 
@@ -91,11 +83,14 @@ Ready
 
 Terminal
 
+## 👩‍💻 Author
+
+Sharmila.M
+B.Tech (Artificial Intelligence and Data Science)
+
+
 
 ## 🎯 Internship
 
-This project was developed as **Task 3** for the **CodSoft Java Programming Internship**.
+This project was developed as **Task 3** for the CodSoft Java Programming Internship.
 
-## 👩‍💻 Author
-
-**Sharmila M**
